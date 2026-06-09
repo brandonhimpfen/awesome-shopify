@@ -60,6 +60,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Tutorials & Learning
 
+- [learnshopify.dev](https://learnshopify.dev) - Interactive lessons that teach Shopify theme development by building features in a live in-browser storefront.
 - [Shopify Academy](https://www.shopify.com/learn) — Free courses on e-commerce and Shopify.
 - [Shopify YouTube Channel](https://www.youtube.com/user/shopify) — Video guides and tutorials.
 - [Shopify Community Tutorials](https://community.shopify.com/c/shopify-design/ct-p/ecommerce-design) — Community-contributed design and development tips.
