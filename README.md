@@ -51,6 +51,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Shopify CLI](https://shopify.dev/docs/apps/tools/cli) — Command-line tool for Shopify development.
 - [Theme Kit](https://shopify.dev/docs/themes/tools/theme-kit) — Tool for developing Shopify themes locally.
 - [Shopify Polaris](https://polaris.shopify.com/) — Shopify's design system for building Shopify apps.
+- [Shopify CSV Preflight](https://shopify-7mc.pages.dev/) — Free in-browser product CSV validator; catches import failures before upload.
 
 ## APIs & SDKs
 
