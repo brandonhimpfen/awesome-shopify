@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Google Analytics for Shopify](https://help.shopify.com/en/manual/reports-and-analytics/google-analytics) — Integration guide for Google Analytics.
 - [Hotjar](https://www.hotjar.com/) — Heatmaps and session recording tools.
 - [Littledata](https://apps.shopify.com/google-analytics-connector) — Enhanced analytics app for Shopify.
+- [Tillkiln](https://tillkiln.com) — Self-serve Shopify checkout/discount leak scanner (dead collection URLs, stacking traps); free top-3 scan.
 
 ## Communities & Forums
 
