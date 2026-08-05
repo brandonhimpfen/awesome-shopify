@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Development Tools
 
+- [Shopify Packing Slip Personalization](https://github.com/revertcreations/shopify-packing-slip-personalization) — Liquid snippet for printing public line-item properties on packing slips.
 - [Shopify CLI](https://shopify.dev/docs/apps/tools/cli) — Command-line tool for Shopify development.
 - [Theme Kit](https://shopify.dev/docs/themes/tools/theme-kit) — Tool for developing Shopify themes locally.
 - [Shopify Polaris](https://polaris.shopify.com/) — Shopify's design system for building Shopify apps.
