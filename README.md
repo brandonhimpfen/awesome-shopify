@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Marketing & SEO
 
+- [Shopify Collection Meta QA Kit](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview) — Documented spreadsheet workflow for reviewing collection-page metadata, duplicates, and publication status; paid buyer pack disclosed in the linked preview.
 - [Shopify SEO Guide](https://www.shopify.com/blog/seo-checklist) — Shopify’s official SEO checklist.
 - [Privy](https://apps.shopify.com/privy) — Shopify app for pop-ups and email marketing.
 - [Shogun Page Builder](https://apps.shopify.com/shogun) — Visual page builder for Shopify.
