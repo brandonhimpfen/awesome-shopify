@@ -1,4 +1,4 @@
-# Awesome Shopify [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Shopify [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1021697017.svg)](https://doi.org/10.5281/zenodo.19681627)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -84,10 +84,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome E-Commerce](https://github.com/awesomelistsio/awesome-e-commerce)**
-- **[Awesome Digital Marketing](https://github.com/awesomelistsio/awesome-digital-marketing)**
-- **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing)**
-- **[Awesome SEO](https://github.com/awesomelistsio/awesome-seo)**
+- **[Awesome E-Commerce](https://github.com/brandonhimpfen/awesome-e-commerce)**
+- **[Awesome Digital Marketing](https://github.com/brandonhimpfen/awesome-digital-marketing)**
+- **[Awesome Content Marketing](https://github.com/brandonhimpfen/awesome-content-marketing)**
+- **[Awesome SEO](https://github.com/brandonhimpfen/awesome-seo)**
   
 ## Contribute
 
