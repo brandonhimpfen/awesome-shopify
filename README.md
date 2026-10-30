@@ -45,6 +45,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Apps & Plugins
 
+- [AddressFence](https://apps.shopify.com/address-guard) — Blocks PO box and parcel locker shipping addresses at Shopify checkout; Free plan includes ZIP rules; paid from ¥1,577/month.
 - [Shopify App Store](https://apps.shopify.com/) — Official marketplace for Shopify apps.
 - [Rewind Backups](https://apps.shopify.com/rewind-backups) — Backup app for Shopify stores.
 - [Klaviyo](https://apps.shopify.com/klaviyo-email-marketing) — Email marketing automation for Shopify.
